@@ -62,7 +62,7 @@ setup(
     name='secure-http-server',
     version=get_version(),
     author='Mohamed Elmoncef HAMDI',
-    author_email='TODO',
+    author_email='mohamedelmoncef.hamdi@gmail.com',
     description='A secure HTTP server with authentication and file management',
     long_description=read_file('README.md'),
     long_description_content_type='text/markdown',
